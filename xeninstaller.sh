@@ -1,7 +1,9 @@
 #!/bin/bash
 # Xen Hypervisor 4.1 Install on Debian Wheezy
 # Author: John McCarthy
-# Date: July 31, 2013
+# <http://www.midactstech.blogspot.com> <https://www.github.com/Midacts>
+# Date: 31th of July, 2013
+# Version 1.0
 #
 # To God only wise, be glory through Jesus Christ forever. Amen.
 # Romans 16:27, I Corinthians 15:1-4
